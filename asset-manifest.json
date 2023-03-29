@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/my-roll-dice/static/css/main.824f1bd9.css",
+    "main.js": "/my-roll-dice/static/js/main.b077d348.js",
+    "static/js/787.d3793715.chunk.js": "/my-roll-dice/static/js/787.d3793715.chunk.js",
+    "index.html": "/my-roll-dice/index.html",
+    "main.824f1bd9.css.map": "/my-roll-dice/static/css/main.824f1bd9.css.map",
+    "main.b077d348.js.map": "/my-roll-dice/static/js/main.b077d348.js.map",
+    "787.d3793715.chunk.js.map": "/my-roll-dice/static/js/787.d3793715.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.824f1bd9.css",
+    "static/js/main.b077d348.js"
+  ]
+}
